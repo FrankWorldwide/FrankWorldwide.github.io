@@ -36,10 +36,11 @@ function openStory(trip) {
       ).join('')}</div>`
     : '';
 
+  const bylineHtml = trip.byline ? `<p class="story-byline">${trip.byline}</p>` : '';
+  const introHtml = trip.intro ? `<p>${trip.intro}</p>` : '';
+
   let body;
   if (trip.qa) {
-    const bylineHtml = trip.byline ? `<p class="story-byline">${trip.byline}</p>` : '';
-    const introHtml = trip.intro ? `<p>${trip.intro}</p>` : '';
     const qaHtml = trip.qa.map(block => `
       <div class="story-qa">
         <p class="story-question">${block.q}</p>
@@ -47,6 +48,22 @@ function openStory(trip) {
       </div>
     `).join('');
     body = bylineHtml + introHtml + qaHtml;
+  } else if (trip.sections) {
+    const noteHtml = trip.editorNote ? `
+      <div class="story-note">
+        <p>${trip.editorNote.text}</p>
+        <div class="story-note-links">
+          ${trip.editorNote.links.map(l => `<a href="${l.url}" target="_blank" rel="noopener">${l.label}</a>`).join('')}
+        </div>
+      </div>
+    ` : '';
+    const sectionsHtml = trip.sections.map(s => `
+      <div class="story-section">
+        ${s.heading ? `<h3>${s.heading}</h3>` : ''}
+        ${s.paragraphs.map(p => `<p>${p}</p>`).join('')}
+      </div>
+    `).join('');
+    body = bylineHtml + introHtml + noteHtml + sectionsHtml;
   } else {
     body = `<p>${trip.summary}</p>`;
   }

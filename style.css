@@ -220,6 +220,55 @@ main {
   margin-bottom: 0.5rem;
 }
 
+.story-note {
+  background: rgba(255, 157, 92, 0.08);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 0.9rem 1rem;
+  margin: 1rem 0 1.4rem;
+}
+
+.story-note p {
+  font-size: 0.85rem;
+  margin: 0 0 0.6rem;
+}
+
+.story-note-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.story-note-links a {
+  font-size: 0.72rem;
+  color: var(--accent);
+  text-decoration: none;
+  border: 1px solid var(--border);
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+}
+
+.story-note-links a:hover {
+  border-color: var(--accent);
+}
+
+.story-section {
+  margin-top: 1.6rem;
+}
+
+.story-section h3 {
+  font-size: 0.95rem;
+  color: var(--accent);
+  margin: 0 0 0.6rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+}
+
+.story-section:first-of-type h3 {
+  border-top: none;
+  padding-top: 0;
+}
+
 .story-source {
   display: inline-block;
   margin-top: 1rem;
