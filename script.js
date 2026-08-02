@@ -106,13 +106,20 @@ document.getElementById('about-close').addEventListener('click', () => {
   aboutPanel.classList.remove('open');
 });
 
-fetch('data/trips.json')
-  .then(res => res.json())
-  .then(trips => {
+Promise.all([
+  fetch('data/trips.json').then(res => res.json()),
+  fetch('https://unpkg.com/globe.gl/example/datasets/ne_110m_admin_0_countries.geojson').then(res => res.json())
+])
+  .then(([trips, countries]) => {
     const world = Globe()(document.getElementById('globe-container'))
-      .globeImageUrl('//unpkg.com/three-globe/example/img/earth-night.jpg')
+      .globeImageUrl('//unpkg.com/three-globe/example/img/earth-blue-marble.jpg')
       .bumpImageUrl('//unpkg.com/three-globe/example/img/earth-topology.png')
       .backgroundImageUrl('//unpkg.com/three-globe/example/img/night-sky.png')
+      .polygonsData(countries.features)
+      .polygonCapColor(() => 'rgba(0, 0, 0, 0)')
+      .polygonSideColor(() => 'rgba(0, 0, 0, 0)')
+      .polygonStrokeColor(() => 'rgba(255, 255, 255, 0.55)')
+      .polygonAltitude(0.001)
       .htmlElementsData(trips)
       .htmlLat('lat')
       .htmlLng('lng')
