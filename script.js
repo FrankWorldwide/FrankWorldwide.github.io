@@ -41,12 +41,20 @@ function openStory(trip) {
 
   let body;
   if (trip.qa) {
-    const qaHtml = trip.qa.map(block => `
-      <div class="story-qa">
-        <p class="story-question">${block.q}</p>
-        ${block.a.map(p => `<p>${p}</p>`).join('')}
-      </div>
-    `).join('');
+    const qaHtml = trip.qa.map(block => {
+      const blockPhotos = block.photos && block.photos.length
+        ? `<div class="story-gallery story-gallery-inline">${block.photos.map(p =>
+            `<figure><img src="${p.src}" alt="${p.caption}" loading="lazy" /><figcaption>${p.caption}</figcaption></figure>`
+          ).join('')}</div>`
+        : '';
+      return `
+        <div class="story-qa">
+          <p class="story-question">${block.q}</p>
+          ${block.a.map(p => `<p>${p}</p>`).join('')}
+          ${blockPhotos}
+        </div>
+      `;
+    }).join('');
     body = bylineHtml + introHtml + qaHtml;
   } else if (trip.sections) {
     const noteHtml = trip.editorNote ? `

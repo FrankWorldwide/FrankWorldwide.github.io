@@ -186,6 +186,11 @@ main {
   scrollbar-width: thin;
 }
 
+.story-gallery-inline {
+  margin: 1rem 0 0;
+  padding: 0 0 0.4rem;
+}
+
 .story-gallery figure {
   margin: 0;
   flex: 0 0 auto;

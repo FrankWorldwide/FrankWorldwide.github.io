@@ -8,14 +8,6 @@
     "date": "December 2021 – February 2022",
     "byline": "Originally published as an interview on NomadMania, 21 August 2022",
     "intro": "I was the first known traveller to visit Afghanistan since the Taliban takeover in August 2021. Here's the interview I gave about it, and about why I travel the way I do.",
-    "photos": [
-      { "src": "images/afghanistan-mazar-i-sharif.jpeg", "caption": "Mazar-i-Sharif, Afghanistan" },
-      { "src": "images/afghanistan-nimruz-1.jpeg", "caption": "Nimruz Province, Afghanistan" },
-      { "src": "images/afghanistan-band-e-amir.jpeg", "caption": "Band-e-Amir National Park, Afghanistan" },
-      { "src": "images/afghanistan-kabul-food.jpeg", "caption": "Sharing food with locals in Kabul" },
-      { "src": "images/afghanistan-nimruz-2.jpeg", "caption": "Nimruz Province, Afghanistan" },
-      { "src": "images/afghanistan-tank-badghis.jpeg", "caption": "An old tank in Badghis province, near Qala-e-Naw" }
-    ],
     "qa": [
       {
         "q": "François please introduce yourself. Where do you come from, where do you live now, what do you do in life…?",
@@ -81,6 +73,11 @@
           "I then read some blogs from travellers who had been to Afghanistan during the first Taliban government between 1996-2001. It gave me some inspiration. I got in touch with two Iranian photographers who had gone to Afghanistan under the new regime and had both been detained for many days. I knew it would be a bumpy journey, especially for me as a Westerner from a NATO country. I was fully expecting to be arrested at some point.",
           "At the same time, I got a very positive impression from the consul in Peshawar. He assured me that my visit was approved by him and that I was welcome to see the country. In the end, I told myself that someone had to go there first to see how Western travellers would be treated. There’s only so much preparation you can do — at some point you must take a leap of faith, hope for the best, and go.",
           "I was not so concerned about the Taliban harming me. They were now the government and no longer insurgents, desperate for international recognition, with no incentive to harm foreign tourists. My main concern was IS-K, the local Daesh affiliate."
+        ],
+        "photos": [
+          { "src": "images/afghanistan-mazar-i-sharif.jpeg", "caption": "Mazar-i-Sharif, Afghanistan" },
+          { "src": "images/afghanistan-kabul-food.jpeg", "caption": "Sharing food with locals in Kabul" },
+          { "src": "images/afghanistan-nimruz-1.jpeg", "caption": "Nimruz Province, Afghanistan" }
         ]
       },
       {
@@ -90,6 +87,11 @@
           "The new authorities are still not accustomed to foreign tourists. It will take some time before the country becomes easy and smooth to travel around.",
           "Safety-wise the situation can change very quickly. If you plan to go anywhere, always inquire with locals about the safety of the road ahead. IS-K is still active, albeit weakened.",
           "As for women travellers, I think it should be safe as long as they comply with local rules. I saw foreign female aid workers during my trip, so it should be possible for women to visit as well."
+        ],
+        "photos": [
+          { "src": "images/afghanistan-band-e-amir.jpeg", "caption": "Band-e-Amir National Park, Afghanistan" },
+          { "src": "images/afghanistan-tank-badghis.jpeg", "caption": "An old tank in Badghis province, near Qala-e-Naw" },
+          { "src": "images/afghanistan-nimruz-2.jpeg", "caption": "Nimruz Province, Afghanistan" }
         ]
       },
       {
