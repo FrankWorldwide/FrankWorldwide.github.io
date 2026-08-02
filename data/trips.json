@@ -76,8 +76,7 @@
         ],
         "photos": [
           { "src": "images/afghanistan-mazar-i-sharif.jpeg", "caption": "Mazar-i-Sharif, Afghanistan" },
-          { "src": "images/afghanistan-kabul-food.jpeg", "caption": "Sharing food with locals in Kabul" },
-          { "src": "images/afghanistan-nimruz-1.jpeg", "caption": "Nimruz Province, Afghanistan" }
+          { "src": "images/afghanistan-kabul-food.jpeg", "caption": "Sharing food with locals in Kabul" }
         ]
       },
       {
@@ -90,8 +89,7 @@
         ],
         "photos": [
           { "src": "images/afghanistan-band-e-amir.jpeg", "caption": "Band-e-Amir National Park, Afghanistan" },
-          { "src": "images/afghanistan-tank-badghis.jpeg", "caption": "An old tank in Badghis province, near Qala-e-Naw" },
-          { "src": "images/afghanistan-nimruz-2.jpeg", "caption": "Nimruz Province, Afghanistan" }
+          { "src": "images/afghanistan-tank-badghis.jpeg", "caption": "An old tank in Badghis province, near Qala-e-Naw" }
         ]
       },
       {
@@ -99,6 +97,9 @@
         "a": [
           "I find these countries more rewarding. To use a financial analogy, I get a better return on my investment by going there. Sure, they’re more challenging — visas, logistics, language. But I always learn more from difficult countries.",
           "Their culture is usually better preserved, making them more unique and interesting. I also prefer to do the hardest countries while I’m young and healthy. I’ll still be willing to visit Denmark when I’m 70, but I probably won’t want to do harder countries at that age."
+        ],
+        "photos": [
+          { "src": "images/afghanistan-nimruz-1.jpeg", "caption": "Nimruz Province, Afghanistan" }
         ]
       },
       {
@@ -107,6 +108,9 @@
           "I realized that humans everywhere on Earth are a lot nicer than the media would make you think. The news is always negative and most people have a fearful view of foreign lands — so did I, before travelling. When I ask people back home if they’d ever go to Sudan, they tell me it’s a no-go area. They’ve never been there; their view is distorted by soundbites. Most people in the world are extremely friendly, and the ones who want to harm you are a small minority.",
           "I no longer take advice about a place from someone who’s never been there. If I had listened to people’s advice I would not have gone to Afghanistan in December 2021, because every Western traveller I met in Pakistan told me it was impossible.",
           "Every country is possible if you have the right strategy and can adapt — dressing locally, avoiding the worst areas. The world is much safer than people think. No country is 100% dangerous."
+        ],
+        "photos": [
+          { "src": "images/afghanistan-nimruz-2.jpeg", "caption": "Nimruz Province, Afghanistan" }
         ]
       },
       {
@@ -144,28 +148,15 @@
         { "label": "My NomadMania interview", "url": "https://nomadmania.travel/interviews/195" }
       ]
     },
-    "photos": [
-      { "src": "images/congo-cover.jpeg", "caption": "Solo overlanding through the DRC" },
-      { "src": "images/congo-map.jpeg", "caption": "The route: Angola to Uganda through the DRC" },
-      { "src": "images/congo-burned-village.jpeg", "caption": "A burned village in Teke-Yaka conflict territory" },
-      { "src": "images/congo-franek.jpeg", "caption": "Father Franek, a Polish missionary in Banduduville since 2002" },
-      { "src": "images/congo-boat.jpeg", "caption": "Packed onto a baleinière river boat" },
-      { "src": "images/congo-dgm-inongo.jpeg", "caption": "With the head of the DGM in Inongo" },
-      { "src": "images/congo-villagers-staring.jpeg", "caption": "Villagers who'd never seen a foreigner before" },
-      { "src": "images/congo-bonobo-baby.jpeg", "caption": "A bonobo near the Luikotale research camp" },
-      { "src": "images/congo-bonobo-researchers.jpeg", "caption": "The bonobo research team deep in Salonga National Park" },
-      { "src": "images/congo-leopard-skin.jpeg", "caption": "A leopard skin gifted by a local chief" },
-      { "src": "images/congo-jean-pierre.jpeg", "caption": "Jean Pierre Valenti, an Italian missionary in Kisangani since 1981" },
-      { "src": "images/congo-boyoma-falls.jpeg", "caption": "Boyoma Falls, Kisangani" },
-      { "src": "images/congo-epulu-police.jpeg", "caption": "At the police post in Epulu, during the detention" },
-      { "src": "images/congo-river-crossing.jpeg", "caption": "One of many river crossings along the way" },
-      { "src": "images/congo-uganda-border.jpeg", "caption": "Crossing into Uganda" }
-    ],
     "sections": [
       {
         "heading": "Visa",
         "paragraphs": [
           "I got my DRC visa in Bujumbura, Burundi. It's not normally possible to get it there as a non-resident. They initially outright refused to process my application. I insisted and asked to speak to higher ups. Eventually I got invited into someone's office and spoke to the right guy who sympathized with me. Speaking French helps, we got friendly. I told him I didn't want to go back to Canada to get the visa when I was so close to the DRC. He said that I could get a visa if I had a letter of invitation “prise en charge”. I got it for 150$ from a local contact. I then came back to the embassy a few days later with the “prise en charge” document and got my DRC visa in less than an hour: 250$, three months multi entry from the day of entry (200$ for single entry three months). I had a three month window to enter the country."
+        ],
+        "photos": [
+          { "src": "images/congo-cover.jpeg", "caption": "Solo overlanding through the DRC" },
+          { "src": "images/congo-map.jpeg", "caption": "The route: Angola to Uganda through the DRC" }
         ]
       },
       {
@@ -191,6 +182,9 @@
           "Five kilometers north of Machambio I stopped at a village, still no traffic northward despite waiting the whole day. I got stuck and slept at the village, fed half-ripe mangoes from the trees. The villagers were incredibly nice, brought me manioc for dinner, and things seemed normal — until one of the guys eating with me told me he'd been part of a Yaka raiding party the day before which had killed four Tekes, including two grandkids. I politely asked him what the point of killing innocent children was and soon realized it wasn't a fruitful conversation.",
           "The next morning I kept walking, getting food and water in the occasional hamlets. Soon I saw burned houses — previously Teke-inhabited villages, completely abandoned. A truck going north refused to take me, blaming “Belgian colonialism and hand cutting”; I told him I was Canadian and we'd never had colonies, but he didn't seem to care. Another truck came and didn't stop, so I ran alongside it in the sand tracks for ten minutes, keeping pace, until the driver's girlfriend had pity on me and convinced him to let me climb onto the roof, on top of the cargo, tied down with ropes. They told me they'd been afraid to take me because there were Yaka roadblocks ahead.",
           "The first one was before the village of Mibe — the guy didn't even notice me, too focused on shaking down the driver for bullet money. Then came the real deal. Right after Mibe we got stopped by fifteen Yaka rebels with carbines and machetes, red turbans, and what looked like black paint over their faces — the driver later told me it's part of a ritual mixing the paint with victims' blood for supernatural power, “fétichisme”. They made everyone get down to check IDs and hunt for any Teke. These guys were high, unmistakably. One saw me and demanded money; I stayed on the roof. I locked eyes with the only one who seemed sober, and he gestured for me to stay put, the most reassuring look I've ever received — “don't worry, it's not you we're after”. Then several of them climbed up onto the roof with their machetes to hitch a ride to their next roadblock. Straight out of a film. We dropped them a few kilometers down and reached Bethanie, then finally Ngadambo at night, across the Kwilu river from Banduduville — no crossing allowed after dark since a local VIP drowned there the year before."
+        ],
+        "photos": [
+          { "src": "images/congo-burned-village.jpeg", "caption": "A burned village in Teke-Yaka conflict territory" }
         ]
       },
       {
@@ -198,6 +192,11 @@
         "paragraphs": [
           "The next morning I tried to board a boat but was harassed by different branches of police threatening to physically remove me if I didn't report to their office. Two hours and a lot of shouting later, I was across, meeting Father Franek, a Polish missionary in the DRC since 2002, who hosted me for free at the Saint Paul mission. From here on the sandy tracks were too narrow for trucks, only bikes. At a river crossing before Bendela, a DGM official mistook my “ordinary” visa category for a missionary visa. In Bendela the authorities forced me into a hotel for the night — they didn't want to miss a football match — so thirty minutes after they left, I pretended to go get food and fled into the pitch-black savannah instead.",
           "I walked and paid my way through Keshu, Cefa, Isaka, and across the river to Nyoki, where I used the line “passports are the business of the DGM, not yours” to fend off the secret police, playing the rival agencies against each other. From Nyoki I took a “baleinière” — a river boat — to Inongo, a two-day journey with a toilet that was a plank of wood with a hole over the lake, and a night spent shipwrecked on a sandbank in a tropical thunderstorm before passengers pushed the boat free by hand. From Inongo I boarded another baleinière, packed shoulder to shoulder with sleeping bodies on the open deck, and reached Kiri without further incident."
+        ],
+        "photos": [
+          { "src": "images/congo-franek.jpeg", "caption": "Father Franek, a Polish missionary in Banduduville since 2002" },
+          { "src": "images/congo-dgm-inongo.jpeg", "caption": "With the head of the DGM in Inongo" },
+          { "src": "images/congo-boat.jpeg", "caption": "Packed onto a baleinière river boat" }
         ]
       },
       {
@@ -206,6 +205,9 @@
           "Kiri is where the real jungle started. I was invited to eat caterpillar soup at a fellow passenger's house and stayed the night at the catholic mission. From there I walked with a companion 60 km to Pendjua, then set out alone to reach Salonga National Park, which meant 90 km on foot to Boyera because the trail wasn't passable by bike. Long stretches were flooded up to my knees, Indiana Jones style, forcing a choice between soaked sneakers or bare feet exposed to parasites. I chose the latter.",
           "I spent the first night 27 km in, taken in by a local pastor whose house was surrounded by hundreds of villagers who, according to him, had never seen a white person since the Belgians left. They stared at me for hours. My host cooked wild boar caught by pygmy hunters — teeming with live worms, which I asked to have boiled first. Two more days of walking through flooded trail and bamboo forest brought me to Boyera on the Momboyo river, where the local police commander, Alain, hosted me after some understandable suspicion.",
           "From Boyera there was no road left, only the river. I hired a pastor and his son to paddle me to Nkassa in a fishing pirogue, lying flat to balance the unstable canoe, six hours upriver. In Nkassa the police commander was a violent drunk the village hated; the local chief begged me to help get him removed. The next morning, a motorized canoe appeared out of nowhere — a priest heading to his church near Salonga, asked by the Nkassa pastor to give me a lift. Twenty-four hours by boat, sleeping aboard, past remote Belgian-era churches, brought me to Wafanya, where the priests fed me monkey — head and brain included, a sign of respect in their culture. I then rode a bike, oiled from the priest's own reserve, to Monkonto."
+        ],
+        "photos": [
+          { "src": "images/congo-villagers-staring.jpeg", "caption": "Villagers who'd never seen a foreigner before" }
         ]
       },
       {
@@ -215,6 +217,10 @@
           "At the Salonga National Park headquarters I learned there was zero tourist infrastructure; I'd be the first tourist to ever show up there. The chief biomonitor, Dieu-Merci, mentioned there were scientists deep in the jungle near Luikotale studying habituated bonobos — unreachable by phone, and visiting without permission was against protocol. I decided my best shot was to make the detour anyway and ask in person.",
           "Getting there took days: a borrowed motorbike to Boleko, a canoe across flooded swampland with an albino ferryman who'd clearly suffered for it (Congolese slang calls albinos “blancs ratés”, failed whitemen), a 17 km night walk using my phone as a flashlight, and — my biggest mistake of the trip — renting a brakeless, gearless bicycle for a planned 60 km leg. It took two days and gave me nerve damage in my right hand that lasted months. From there, motorbikes borrowed and re-borrowed from generous strangers, one machete-cutting a path through fallen trees, got me to the ICCN ranger post at Mundja, where commander Sendi lent me a headtorch for the final stretch to Ipope and then Lumpole.",
           "In Lumpole I met Mara, the Congolese liaison for the bonobo research project, who told me I was lucky: some of the scientists were about to fly out and I could meet them. That night a group came out of the jungle. Barbara, the lead scientist, agreed to let me visit the camp and see the bonobos for free, as a temporary “volunteer”. We trekked 25 km from Lumpole to Luikotale, crossing the Lokoro river. The camp had no anti-venom for the lethal snakes in the area — everyone signs a waiver before entering. I saw flying squirrels, butterflies, small monkeys, and after a few days trekked out with local workers to find the bonobos themselves: watching them eat, play, and move through the canopy in their natural environment, wild bees and biting vines underfoot the whole way."
+        ],
+        "photos": [
+          { "src": "images/congo-bonobo-researchers.jpeg", "caption": "The bonobo research team deep in Salonga National Park" },
+          { "src": "images/congo-bonobo-baby.jpeg", "caption": "A bonobo near the Luikotale research camp" }
         ]
       },
       {
@@ -222,6 +228,9 @@
         "paragraphs": [
           "I started feeling sick and weak in Luikotale and left before things got worse. In Ipope I discovered all my cash — over $300 — had been stolen, likely while I was away from my hut. I had just enough left for river crossings, nothing for bikes or food. Back in Mundja, commander Sendi found me visibly ill; a rapid test confirmed malaria. He put me up for three nights through terrible fevers, chased off a drunk village nurse who wanted to give me injections, and at one low point had me message my parents via satellite Wi-Fi, fearing the worst.",
           "To get out, I struck a deal: Sendi's own motorbike and driver would take me 146 km to Bokogombolo, paid for later once I retrieved my hidden cash from under the priest's bed in Wafanya — arranged, remarkably, over WhatsApp, since it turned out Sendi and the priest already knew each other. Weak and still recovering, I helped lift the bike over fallen trees for two days, bartering fruit from villagers along the way since I had almost nothing left to spend. From Bokogombolo, canoes and a lucky lift with a fisherman — who gave me a 1925 Belgian colonial coin he'd dug up in his garden — got me back to Boleko, and eventually to Wafanya, where I paid off my debts and collapsed, exhausted and sick, having also picked up giardia along the way."
+        ],
+        "photos": [
+          { "src": "images/congo-leopard-skin.jpeg", "caption": "A leopard skin gifted by a local chief" }
         ]
       },
       {
@@ -249,6 +258,10 @@
         "paragraphs": [
           "Kisangani has no real supermarket but decent restaurants, and I met Jean Pierre (Giampetro Valenti), an Italian former missionary who's lived in the DRC since 1981 and never left, even through the worst of the wars. He hosted me and had more stories than anyone I've met. The city's infrastructure was a mess while I was there: no reliable electricity, water only at night for a few hours, generator operators charging to charge a phone.",
           "At the Boyoma Falls I was swarmed by thirty teenagers demanding $50 for a five-second look, pressing against me until two off-duty ANR officers intervened, escorted me past the crowd for free, then drove me to their base to be searched and, ultimately, asked for money themselves. I walked away. My advice: the falls aren't worth the hassle alone; go with a local who can speak for you, or skip it."
+        ],
+        "photos": [
+          { "src": "images/congo-jean-pierre.jpeg", "caption": "Jean Pierre Valenti, an Italian missionary in Kisangani since 1981" },
+          { "src": "images/congo-boyoma-falls.jpeg", "caption": "Boyoma Falls, Kisangani" }
         ]
       },
       {
@@ -265,6 +278,9 @@
           "It clicked immediately. A year earlier I'd been briefly detained by the Taliban in Farah province, and a Canadian news segment had since misreported it as an ISIS suspicion, a claim never actually made by the Taliban or the original local reporting. Maxime, the reserve's French head of security, had served in Afghanistan against the Taliban and, on hearing I'd been there, apparently decided I was linked to the ADF or ISIS. I was searched item by item, treated as if my electric razor and padlock were explosives, and by evening placed under armed guard outside my hotel room, unable to leave, given no explanation.",
           "I got the Canadian embassy on the phone that night, and again in the morning, only to find a local staffer with no real authority and no urgency. I was told I couldn't leave Epulu because the Mambasa territorial administrator wanted to meet me and possibly transfer me toward Mambasa itself, deep in ADF territory, which was the last place I wanted to go. I bluffed my way through it: telling the local police my embassy was “furious” and threatening media attention if I wasn't released (they weren't, and I wasn't planning to), and getting the administrator's direct phone number from the sympathetic Epulu police commander. I fed that number to the embassy staffer and let the threat of a phone call from “the Canadian government” do the rest.",
           "It worked. The administrator backed off the next day, and the police released me with written confirmation of my innocence. But the Okapi Reserve staff never let me rejoin the pygmy trip, Maxime refused to meet me again, and the community's chief, who badly needed the money, was told he'd be arrested if he took me into the forest anyway."
+        ],
+        "photos": [
+          { "src": "images/congo-epulu-police.jpeg", "caption": "At the police post in Epulu, during the detention" }
         ]
       },
       {
@@ -273,6 +289,10 @@
           "I hitchhiked back out with the Somali truckers, slept a night in a hotel that turned out to double as a brothel in Nya-Nya, and talked my way past a checkpoint the next morning by calling the Mambasa administrator directly and putting him on speaker. North of Nya-Nya the entire mood of the country shifted: friendlier checkpoints, better roads, a DGM officer who just wanted my phone number instead of a bribe, and jungle giving way to open savanna.",
           "Rides with a diamond trader, then a group of VIP Congolese in a 4x4, brought me toward Watsa and Durba, gold-mining country with a reputation for nighttime violence. A brief stop let me watch a pygmy hunter harvest wild honey by hand, smoking out the bees, before his wife came running, terrified I'd harm him. From Durba it was 176 km to Aru, on the Ugandan border. At the DRC exit post an official tried to arrest me for having gotten my visa in a non-resident country, a threat I talked down using recorded voice messages of local references, the same trick that had worked the whole trip.",
           "Then I crossed into Uganda and was greeted with a smile and “Welcome to Uganda, sir.” I was in another world."
+        ],
+        "photos": [
+          { "src": "images/congo-river-crossing.jpeg", "caption": "One of many river crossings along the way" },
+          { "src": "images/congo-uganda-border.jpeg", "caption": "Crossing into Uganda" }
         ]
       },
       {

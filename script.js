@@ -65,12 +65,20 @@ function openStory(trip) {
         </div>
       </div>
     ` : '';
-    const sectionsHtml = trip.sections.map(s => `
-      <div class="story-section">
-        ${s.heading ? `<h3>${s.heading}</h3>` : ''}
-        ${s.paragraphs.map(p => `<p>${p}</p>`).join('')}
-      </div>
-    `).join('');
+    const sectionsHtml = trip.sections.map(s => {
+      const sectionPhotos = s.photos && s.photos.length
+        ? `<div class="story-gallery story-gallery-inline">${s.photos.map(p =>
+            `<figure><img src="${p.src}" alt="${p.caption}" loading="lazy" /><figcaption>${p.caption}</figcaption></figure>`
+          ).join('')}</div>`
+        : '';
+      return `
+        <div class="story-section">
+          ${s.heading ? `<h3>${s.heading}</h3>` : ''}
+          ${s.paragraphs.map(p => `<p>${p}</p>`).join('')}
+          ${sectionPhotos}
+        </div>
+      `;
+    }).join('');
     body = bylineHtml + introHtml + noteHtml + sectionsHtml;
   } else {
     body = `<p>${trip.summary}</p>`;
