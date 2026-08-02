@@ -142,6 +142,23 @@
         { "label": "My NomadMania interview", "url": "https://nomadmania.travel/interviews/195" }
       ]
     },
+    "photos": [
+      { "src": "images/congo-cover.jpeg", "caption": "Solo overlanding through the DRC" },
+      { "src": "images/congo-map.jpeg", "caption": "The route: Angola to Uganda through the DRC" },
+      { "src": "images/congo-burned-village.jpeg", "caption": "A burned village in Teke-Yaka conflict territory" },
+      { "src": "images/congo-franek.jpeg", "caption": "Father Franek, a Polish missionary in Banduduville since 2002" },
+      { "src": "images/congo-boat.jpeg", "caption": "Packed onto a baleinière river boat" },
+      { "src": "images/congo-dgm-inongo.jpeg", "caption": "With the head of the DGM in Inongo" },
+      { "src": "images/congo-villagers-staring.jpeg", "caption": "Villagers who'd never seen a foreigner before" },
+      { "src": "images/congo-bonobo-baby.jpeg", "caption": "A bonobo near the Luikotale research camp" },
+      { "src": "images/congo-bonobo-researchers.jpeg", "caption": "The bonobo research team deep in Salonga National Park" },
+      { "src": "images/congo-leopard-skin.jpeg", "caption": "A leopard skin gifted by a local chief" },
+      { "src": "images/congo-epulu-police.jpeg", "caption": "At the police post in Epulu, during the detention" },
+      { "src": "images/congo-jean-pierre.jpeg", "caption": "Jean Pierre Valenti, an Italian missionary in Kisangani since 1981" },
+      { "src": "images/congo-boyoma-falls.jpeg", "caption": "Boyoma Falls, Kisangani" },
+      { "src": "images/congo-uganda-border.jpeg", "caption": "Crossing into Uganda" },
+      { "src": "images/congo-river-crossing.jpeg", "caption": "One of many river crossings along the way" }
+    ],
     "sections": [
       {
         "heading": "Visa",
