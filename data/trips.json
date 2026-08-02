@@ -1,0 +1,24 @@
+[
+  {
+    "id": "afghanistan-2021",
+    "title": "First Steps Into Taliban Afghanistan",
+    "country": "Afghanistan",
+    "lat": 34.5553,
+    "lng": 69.2075,
+    "date": "December 2021",
+    "summary": "A few months after the Taliban retook power, I crossed into Afghanistan on a visa issued by their consulate in Peshawar — one of the first Western travelers to do so. From Kabul to Nimruz to the turquoise lakes of Band-e-Amir, the trip was a study in contrasts: genuine hospitality from locals living under a new and uncertain order, set against the constant background hum of security risk, including the shadow of ISIS-K. It reshaped how I think about the gap between a country's headlines and its people.",
+    "sourceUrl": "https://nomadmania.com/interview-francois-xavier/",
+    "sourceLabel": "Read the full interview on NomadMania"
+  },
+  {
+    "id": "congo-2022",
+    "title": "Where the Road Won't Go: Overlanding the Congo",
+    "country": "Democratic Republic of Congo",
+    "lat": -4.4,
+    "lng": 21.7,
+    "date": "August – November 2022",
+    "summary": "Three and a half months, no fixed route: from Angola into the DRC and out through Uganda, using whatever moved — motorbike taxis, riverboats, canoes through flooded forest, a rented bicycle that eventually wrecked my nerves quite literally. I watched wild bonobos at a research camp deep in Salonga National Park, was mistaken for the first white visitor some villages had seen since Belgian colonial times, and was briefly detained at Epulu on false rumors linking me to armed groups. Malaria, theft, tribal roadblocks, and relentless bribery attempts made this the hardest trip I've done — and one of the most human.",
+    "sourceUrl": "https://chasingtherealworld.com/where-the-road-wont-go-solo-overlanding-the-congo/",
+    "sourceLabel": "Read the full story on Chasing the Real World"
+  }
+]

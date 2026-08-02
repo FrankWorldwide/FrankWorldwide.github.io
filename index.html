@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Frank Worldwide — Travel Stories</title>
+<meta name="description" content="A personal travel blog told through an interactive 3D globe of places visited." />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%8C%8D%3C/text%3E%3C/svg%3E" />
+
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Frank Worldwide" />
+<meta property="og:title" content="Frank Worldwide — Travel Stories" />
+<meta property="og:description" content="A personal travel blog told through an interactive 3D globe. Click a pin, read a real story." />
+<meta property="og:url" content="https://frankworldwide.github.io/" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Frank Worldwide — Travel Stories" />
+<meta name="twitter:description" content="A personal travel blog told through an interactive 3D globe. Click a pin, read a real story." />
+
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="brand">
+      <span class="brand-mark">🌍</span>
+      <div>
+        <h1>Frank Worldwide</h1>
+        <p class="tagline">Stories from the road, pinned to the places they happened.</p>
+      </div>
+    </div>
+    <button id="about-toggle" class="ghost-btn" aria-label="About this blog">About</button>
+  </header>
+
+  <main>
+    <div id="globe-container"></div>
+
+    <p class="hint" id="hint">Click a pin to open the story · Drag to rotate · Scroll to zoom</p>
+
+    <aside id="story-panel" class="story-panel" aria-live="polite">
+      <button id="story-close" class="close-btn" aria-label="Close story">&times;</button>
+      <div id="story-content"></div>
+    </aside>
+
+    <aside id="about-panel" class="story-panel">
+      <button id="about-close" class="close-btn" aria-label="Close about">&times;</button>
+      <div class="story-body">
+        <p class="story-date">About</p>
+        <h2>Why this blog exists</h2>
+        <p>This is a personal record of solo travel — the routes, the detours, and the places that didn't make it onto a map until someone walked, rode, or paddled through them. Every pin on the globe is a real trip, told as honestly as I can manage.</p>
+        <p>New stories get added as new trips happen. Spin the globe and go exploring.</p>
+      </div>
+    </aside>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; <span id="year"></span> Frank Worldwide · Built with <a href="https://github.com/vasturiano/globe.gl" target="_blank" rel="noopener">Globe.gl</a> · Hosted on GitHub Pages</p>
+  </footer>
+
+  <script src="https://unpkg.com/globe.gl"></script>
+  <script src="script.js"></script>
+</body>
+</html>
