@@ -23,16 +23,41 @@ function makePinElement(trip) {
 
 function openStory(trip) {
   aboutPanel.classList.remove('open');
-  storyContent.innerHTML = `
-    <div class="story-body">
-      <p class="story-date">${trip.date}</p>
-      <h2>${trip.title}</h2>
-      <p class="story-country">📍 ${trip.country}</p>
-      <p>${trip.summary}</p>
-      <a class="story-source" href="${trip.sourceUrl}" target="_blank" rel="noopener">${trip.sourceLabel} →</a>
-    </div>
+
+  const header = `
+    <p class="story-date">${trip.date}</p>
+    <h2>${trip.title}</h2>
+    <p class="story-country">📍 ${trip.country}</p>
   `;
+
+  const gallery = trip.photos && trip.photos.length
+    ? `<div class="story-gallery">${trip.photos.map(p =>
+        `<figure><img src="${p.src}" alt="${p.caption}" loading="lazy" /><figcaption>${p.caption}</figcaption></figure>`
+      ).join('')}</div>`
+    : '';
+
+  let body;
+  if (trip.qa) {
+    const bylineHtml = trip.byline ? `<p class="story-byline">${trip.byline}</p>` : '';
+    const introHtml = trip.intro ? `<p>${trip.intro}</p>` : '';
+    const qaHtml = trip.qa.map(block => `
+      <div class="story-qa">
+        <p class="story-question">${block.q}</p>
+        ${block.a.map(p => `<p>${p}</p>`).join('')}
+      </div>
+    `).join('');
+    body = bylineHtml + introHtml + qaHtml;
+  } else {
+    body = `<p>${trip.summary}</p>`;
+  }
+
+  const source = trip.sourceUrl
+    ? `<a class="story-source" href="${trip.sourceUrl}" target="_blank" rel="noopener">${trip.sourceLabel} →</a>`
+    : '';
+
+  storyContent.innerHTML = `<div class="story-body">${header}${gallery}${body}${source}</div>`;
   storyPanel.classList.add('open');
+  storyContent.scrollTop = 0;
 }
 
 document.getElementById('story-close').addEventListener('click', () => {

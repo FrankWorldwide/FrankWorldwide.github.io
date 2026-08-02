@@ -6,9 +6,122 @@
     "lat": 34.5553,
     "lng": 69.2075,
     "date": "December 2021 – February 2022",
-    "summary": "A few months after the Taliban retook power, I crossed into Afghanistan on a visa issued by their consulate in Peshawar — one of the first Western travelers to do so. From Kabul to Nimruz to the turquoise lakes of Band-e-Amir, the trip was a study in contrasts: genuine hospitality from locals living under a new and uncertain order, set against the constant background hum of security risk, including the shadow of ISIS-K. It reshaped how I think about the gap between a country's headlines and its people.",
+    "byline": "Originally published as an interview on NomadMania, 21 August 2022",
+    "intro": "I was the first known traveller to visit Afghanistan since the Taliban takeover in August 2021. Here's the interview I gave about it, and about why I travel the way I do.",
+    "photos": [
+      { "src": "images/afghanistan-mazar-i-sharif.jpeg", "caption": "Mazar-i-Sharif, Afghanistan" },
+      { "src": "images/afghanistan-nimruz-1.jpeg", "caption": "Nimruz Province, Afghanistan" },
+      { "src": "images/afghanistan-band-e-amir.jpeg", "caption": "Band-e-Amir National Park, Afghanistan" },
+      { "src": "images/afghanistan-kabul-food.jpeg", "caption": "Sharing food with locals in Kabul" },
+      { "src": "images/afghanistan-nimruz-2.jpeg", "caption": "Nimruz Province, Afghanistan" },
+      { "src": "images/afghanistan-tank-badghis.jpeg", "caption": "An old tank in Badghis province, near Qala-e-Naw" }
+    ],
+    "qa": [
+      {
+        "q": "François please introduce yourself. Where do you come from, where do you live now, what do you do in life…?",
+        "a": [
+          "My name is François-Xavier Paradis-Garneau and I’m from Canada. I was born in the province of Quebec, the French-speaking part of the country, in 1999. I studied English linguistics at the university from 2018 to 2021, the year of my graduation. I studied in that field because I wanted to go teach English abroad, specifically in China and the Middle East.",
+          "Due to Covid restrictions, I couldn’t go to China after graduating as I had initially planned in 2018. I had savings from the pandemic working as a part-time security guard. I decided to use my savings to go on a trip and I left Canada in September for an open-ended trip."
+        ]
+      },
+      {
+        "q": "How do you find that your origins influence you as a traveller? Did being a Canadian help or otherwise influence your travels?",
+        "a": [
+          "Being a Canadian is a net positive for me since I have access to a lot of countries visa-free/visa on arrival. Getting visas is also a lot easier as a Canadian compared to many other countries. I remember in 2018 I was backpacking in China and had been lucky to get a 10-year multi-entry 60-day visa while I met a lot of Europeans who hadn’t had that visa opportunity. They were struggling to extend their single-entry 30-day visas.",
+          "I was planning to go to Central Asia and had dismissed the thought of going to Uzbekistan because I’d heard of how difficult it was to get the Letter of Invitation. But then I met an Australian who told me that there had been a change in the visa policy and the visa process no longer required an LOI for certain nationalities including ours.",
+          "I applied to the Uzbek embassy in Tajikistan and all I had to give was 50$. I came a few days later to pick up the visa and I remember a Vietnamese lady being told that she had to provide an LOI. I felt very lucky.",
+          "On the negative side, some countries are more difficult for me to enter, most notoriously Iran. I would love to visit the country on my own but for the time being, they won’t take me unless I have a tour. I have already had two Iranian visa applications rejected! Overall Canada has a great reputation abroad and people are always happy to meet a Canadian."
+        ]
+      },
+      {
+        "q": "How did you start travelling and how did that love for travel develop over time?",
+        "a": [
+          "I used to travel as a child with my family, mostly in the USA. I fell in love with long road trips such as driving from Quebec to Florida with my family and looking out the window at the changing landscape. I think that is where the travel bug got me.",
+          "I then started travelling by myself in 2017 when I went on a backpacking trip to Europe for 6 weeks. I was blown away. I met dozens of people who shared with me their travel tips to keep their budget low and travel long-term, such as hitchhiking, couchsurfing etc. Some of them were extreme budget travellers who had been travelling for years, dumpster diving and sleeping outside.",
+          "Then I realised that my budget could be as low or as high as I wanted and that money was not an obstacle to my travels if I was willing to rough it out. Moreover, I met people in Europe who shared their experiences of travelling outside the West and it intrigued me. Up until that point, I had thought that travelling outside the West was extremely dangerous, difficult and near impossible unless on a tour group. But young people like me had been to India, Oman, Peru, etc.",
+          "That made me realise the whole world could be mine to visit if I wanted to and the next year I travelled alone to East and Central Asia. I have always loved history, politics, anthropology and geography and travelling allows me to live out my passions by seeing places in real life instead of through the pages of a book."
+        ]
+      },
+      {
+        "q": "Do you have any specific travel goals and if yes, what are they? What inspired you to have them?",
+        "a": [
+          "My main travel goal is to acquire a better understanding of the world. I’m quite a curious person and I want to learn more. Travelling allows me to meet the world’s inhabitants and discover their religions, philosophies, etc.",
+          "Curiosity is the fuel that keeps me travelling. I find the human species fascinating and travelling allows me to see the full picture. For instance in Pakistan, their family system is completely different from what I’m used to at home. Coming here allows me to see my own culture from their perspective. I like to see things from different angles to have a well-rounded view of humanity.",
+          "I’m also travelling to get some interesting stories that I will hopefully be able to share with my children and grandchildren one day around a campfire. For me, my motto is “stories, not stamps”."
+        ]
+      },
+      {
+        "q": "What are your biggest travel interests? How do you choose your next place to go?",
+        "a": [
+          "I love places that make me feel culturally disoriented. In essence, the less Westernized I hear a country is, the more I will be drawn to it. The more different and exotic a country is compared to Canada, the better. That is why I loved China. I had a complete culture shock there and I enjoyed it.",
+          "My biggest travel interests are the people that I meet on the road. I love countries where locals are happy to meet foreigners and discuss with them. I usually choose the next place I will go to based on how friendly I’ve heard the locals are and how culturally interesting the place seems.",
+          "I prioritize places that have not totally fallen prey to globalization yet to see them while they are still interesting. Sooner than later everyone on Earth will watch Netflix, drink Coca-Cola and eat at McDonald’s. That day will be the day I stop travelling. I feel like I’m living at the tail end of the golden era of travel. It’s certainly a race against time."
+        ]
+      },
+      {
+        "q": "You have been to 131 NomadMania regions and ‘only’ 34 UN countries. It seems like you really go in depth when travelling and exploring. Why is that?",
+        "a": [
+          "While I respect country counters, I myself am not chasing a specific number of countries. I’m more interested in stories than in stamps. Therefore when visiting a place I don’t feel the need to rush to tick off a world bucket list. I can take my time.",
+          "I usually like seeing a country as thoroughly as possible to really know the place in depth. It is the age-old quality vs quantity debate. I prefer spending one long stretch of time in one country at the expense of not seeing other countries that I’m less interested in.",
+          "As for how travel should feel, a good benchmark for me is if I meet someone from a country that I’ve visited and I can sustain a deep conversation about their country. If they seem impressed with my knowledge of their native land then I feel like I’ve done a good job exploring the country."
+        ]
+      },
+      {
+        "q": "What were some of the biggest surprises – good or bad – that you encountered on your travels so far?",
+        "a": [
+          "One big surprise is how friendly strangers can be if you simply approach them. In China, I was on a bus from Guilin to Longji rice terraces. There was another man on the bus, otherwise empty. I approached him and greeted him. He did not speak English but we communicated through a phone translator. It turned out we were going to the same place. He ended up paying for my entrance fee at the national park and treating me to dinner.",
+          "He then gave me his number and told me to contact him when I would come to Chengdu. When I did, he lent me his apartment and went to sleep at his girlfriend’s home for 4 days, to my bewilderment. He drove me around the city, showing me panda reserves, local restaurants, hot springs, and more. All of this would have never happened had I not first initiated contact with him.",
+          "The second biggest surprise is that usually the worse the media portrayal and fear factor of a country is, the nicer its inhabitants are — Sudan, Pakistan, Afghanistan, Somaliland. Five years ago I had a negative view of these countries. In my experience it’s been the opposite: they are desperate to give a good image of their country and will do everything they can to help you."
+        ]
+      },
+      {
+        "q": "Can you tell us the story of how you ended up in Afghanistan? How did you know it would be safe enough, given there was almost no information even among big and extreme travellers?",
+        "a": [
+          "I was exploring Pakistan in the fall of 2021. I entertained the thought of going to Afghanistan after learning that the 4 consulates in Pakistan were now led by the Taliban. I thought it would give more legitimacy to my visa if I got it from a Taliban-controlled consulate. That reassured me.",
+          "I then read some blogs from travellers who had been to Afghanistan during the first Taliban government between 1996-2001. It gave me some inspiration. I got in touch with two Iranian photographers who had gone to Afghanistan under the new regime and had both been detained for many days. I knew it would be a bumpy journey, especially for me as a Westerner from a NATO country. I was fully expecting to be arrested at some point.",
+          "At the same time, I got a very positive impression from the consul in Peshawar. He assured me that my visit was approved by him and that I was welcome to see the country. In the end, I told myself that someone had to go there first to see how Western travellers would be treated. There’s only so much preparation you can do — at some point you must take a leap of faith, hope for the best, and go.",
+          "I was not so concerned about the Taliban harming me. They were now the government and no longer insurgents, desperate for international recognition, with no incentive to harm foreign tourists. My main concern was IS-K, the local Daesh affiliate."
+        ]
+      },
+      {
+        "q": "Would you recommend Afghanistan to other travellers now that you’ve been? Would you consider it safe for women to go?",
+        "a": [
+          "It is possible to visit the country if you have a lot of time on your hands. Be prepared to be detained, questioned, and have a lot of time wasted every day, especially in remote areas like Farah.",
+          "The new authorities are still not accustomed to foreign tourists. It will take some time before the country becomes easy and smooth to travel around.",
+          "Safety-wise the situation can change very quickly. If you plan to go anywhere, always inquire with locals about the safety of the road ahead. IS-K is still active, albeit weakened.",
+          "As for women travellers, I think it should be safe as long as they comply with local rules. I saw foreign female aid workers during my trip, so it should be possible for women to visit as well."
+        ]
+      },
+      {
+        "q": "What makes you go to places like Somalia and Afghanistan, rather than somewhere more convenient?",
+        "a": [
+          "I find these countries more rewarding. To use a financial analogy, I get a better return on my investment by going there. Sure, they’re more challenging — visas, logistics, language. But I always learn more from difficult countries.",
+          "Their culture is usually better preserved, making them more unique and interesting. I also prefer to do the hardest countries while I’m young and healthy. I’ll still be willing to visit Denmark when I’m 70, but I probably won’t want to do harder countries at that age."
+        ]
+      },
+      {
+        "q": "How did your general view of the world change with travelling?",
+        "a": [
+          "I realized that humans everywhere on Earth are a lot nicer than the media would make you think. The news is always negative and most people have a fearful view of foreign lands — so did I, before travelling. When I ask people back home if they’d ever go to Sudan, they tell me it’s a no-go area. They’ve never been there; their view is distorted by soundbites. Most people in the world are extremely friendly, and the ones who want to harm you are a small minority.",
+          "I no longer take advice about a place from someone who’s never been there. If I had listened to people’s advice I would not have gone to Afghanistan in December 2021, because every Western traveller I met in Pakistan told me it was impossible.",
+          "Every country is possible if you have the right strategy and can adapt — dressing locally, avoiding the worst areas. The world is much safer than people think. No country is 100% dangerous."
+        ]
+      },
+      {
+        "q": "How well do you know your own country? What are some of the most underrated places in Canada?",
+        "a": [
+          "Unfortunately, I don’t know my own country well enough — I’ve mostly spent time visiting foreign countries. Travellers often take their own country for granted. I think the Yukon and the Northwest Territories may be underrated. I’m planning to visit both at some point."
+        ]
+      },
+      {
+        "q": "Signature question: if you could invite 4 people from any era to dinner, who would your guests be and why?",
+        "a": [
+          "I would probably invite Jesus, Socrates, Mohammed and the Buddha. That should make for an interesting conversation."
+        ]
+      }
+    ],
     "sourceUrl": "https://nomadmania.com/interview-francois-xavier/",
-    "sourceLabel": "Read the full interview on NomadMania"
+    "sourceLabel": "Originally published on NomadMania"
   },
   {
     "id": "congo-2022",
