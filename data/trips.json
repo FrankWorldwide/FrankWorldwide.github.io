@@ -76,7 +76,12 @@
         ],
         "photos": [
           { "src": "images/afghanistan-mazar-i-sharif.jpeg", "caption": "Mazar-i-Sharif, Afghanistan" },
-          { "src": "images/afghanistan-kabul-food.jpeg", "caption": "Sharing food with locals in Kabul" }
+          { "src": "images/afghanistan-kabul-food.jpeg", "caption": "Sharing food with locals in Kabul" },
+          { "src": "images/afghanistan-new-01.jpg", "caption": "Afghanistan, December 2021" },
+          { "src": "images/afghanistan-new-02.jpg", "caption": "Afghanistan, December 2021" },
+          { "src": "images/afghanistan-new-03.jpg", "caption": "Afghanistan, December 2021" },
+          { "src": "images/afghanistan-new-04.jpg", "caption": "Afghanistan, December 2021" },
+          { "src": "images/afghanistan-new-05.jpg", "caption": "Afghanistan, December 2021" }
         ]
       },
       {
@@ -89,7 +94,12 @@
         ],
         "photos": [
           { "src": "images/afghanistan-band-e-amir.jpeg", "caption": "Band-e-Amir National Park, Afghanistan" },
-          { "src": "images/afghanistan-tank-badghis.jpeg", "caption": "An old tank in Badghis province, near Qala-e-Naw" }
+          { "src": "images/afghanistan-tank-badghis.jpeg", "caption": "An old tank in Badghis province, near Qala-e-Naw" },
+          { "src": "images/afghanistan-new-06.jpg", "caption": "Afghanistan, December 2021 – February 2022" },
+          { "src": "images/afghanistan-new-07.jpg", "caption": "Afghanistan, December 2021 – February 2022" },
+          { "src": "images/afghanistan-new-08.jpg", "caption": "Afghanistan, December 2021 – February 2022" },
+          { "src": "images/afghanistan-new-09.jpg", "caption": "Afghanistan, December 2021 – February 2022" },
+          { "src": "images/afghanistan-new-10.jpg", "caption": "Afghanistan, December 2021 – February 2022" }
         ]
       },
       {
@@ -99,7 +109,11 @@
           "Their culture is usually better preserved, making them more unique and interesting. I also prefer to do the hardest countries while I’m young and healthy. I’ll still be willing to visit Denmark when I’m 70, but I probably won’t want to do harder countries at that age."
         ],
         "photos": [
-          { "src": "images/afghanistan-nimruz-1.jpeg", "caption": "Nimruz Province, Afghanistan" }
+          { "src": "images/afghanistan-nimruz-1.jpeg", "caption": "Nimruz Province, Afghanistan" },
+          { "src": "images/afghanistan-new-11.jpg", "caption": "Afghanistan, December 2021 – February 2022" },
+          { "src": "images/afghanistan-new-12.jpg", "caption": "Afghanistan, December 2021 – February 2022" },
+          { "src": "images/afghanistan-new-13.jpg", "caption": "Afghanistan, December 2021 – February 2022" },
+          { "src": "images/afghanistan-new-14.jpg", "caption": "Afghanistan, December 2021 – February 2022" }
         ]
       },
       {
@@ -110,7 +124,11 @@
           "Every country is possible if you have the right strategy and can adapt — dressing locally, avoiding the worst areas. The world is much safer than people think. No country is 100% dangerous."
         ],
         "photos": [
-          { "src": "images/afghanistan-nimruz-2.jpeg", "caption": "Nimruz Province, Afghanistan" }
+          { "src": "images/afghanistan-nimruz-2.jpeg", "caption": "Nimruz Province, Afghanistan" },
+          { "src": "images/afghanistan-new-15.jpg", "caption": "Afghanistan, December 2021 – February 2022" },
+          { "src": "images/afghanistan-new-16.jpg", "caption": "Afghanistan, December 2021 – February 2022" },
+          { "src": "images/afghanistan-new-17.jpg", "caption": "Afghanistan, December 2021 – February 2022" },
+          { "src": "images/afghanistan-new-18.jpg", "caption": "Afghanistan, December 2021 – February 2022" }
         ]
       },
       {
@@ -156,7 +174,8 @@
         ],
         "photos": [
           { "src": "images/congo-cover.jpeg", "caption": "Solo overlanding through the DRC" },
-          { "src": "images/congo-map.jpeg", "caption": "The route: Angola to Uganda through the DRC" }
+          { "src": "images/congo-map.jpeg", "caption": "The route: Angola to Uganda through the DRC" },
+          { "src": "images/congo-new-01.jpg", "caption": "DRC, August–November 2022" }
         ]
       },
       {
@@ -171,6 +190,10 @@
         "heading": "Kinshasa",
         "paragraphs": [
           "I didn't stay long in Kinshasa as I was eager to carry on deeper into the country and worried about time constraints. I visited the memorial of the defunct president Laurent Kabila. It's nominally free to visit but my host had to pay a bribe to the guards to let us take pictures. Kinshasa's driving is the most insane I have ever seen, even by African standards — drivers don't care about pedestrians at all. There's an uneasiness in the air. Interesting fact: people dress super well, suit and tie, yet live in shantytowns. It's called “la culture des sapeurs”."
+        ],
+        "photos": [
+          { "src": "images/congo-new-02.jpg", "caption": "Kinshasa, DRC" },
+          { "src": "images/congo-new-03.jpg", "caption": "Kinshasa, DRC" }
         ]
       },
       {
@@ -196,7 +219,8 @@
         "photos": [
           { "src": "images/congo-franek.jpeg", "caption": "Father Franek, a Polish missionary in Banduduville since 2002" },
           { "src": "images/congo-dgm-inongo.jpeg", "caption": "With the head of the DGM in Inongo" },
-          { "src": "images/congo-boat.jpeg", "caption": "Packed onto a baleinière river boat" }
+          { "src": "images/congo-boat.jpeg", "caption": "Packed onto a baleinière river boat" },
+          { "src": "images/congo-new-04.jpg", "caption": "DRC, August–November 2022" }
         ]
       },
       {
@@ -220,7 +244,8 @@
         ],
         "photos": [
           { "src": "images/congo-bonobo-researchers.jpeg", "caption": "The bonobo research team deep in Salonga National Park" },
-          { "src": "images/congo-bonobo-baby.jpeg", "caption": "A bonobo near the Luikotale research camp" }
+          { "src": "images/congo-bonobo-baby.jpeg", "caption": "A bonobo near the Luikotale research camp" },
+          { "src": "images/congo-new-05.jpg", "caption": "Salonga National Park, DRC" }
         ]
       },
       {
@@ -230,13 +255,17 @@
           "To get out, I struck a deal: Sendi's own motorbike and driver would take me 146 km to Bokogombolo, paid for later once I retrieved my hidden cash from under the priest's bed in Wafanya — arranged, remarkably, over WhatsApp, since it turned out Sendi and the priest already knew each other. Weak and still recovering, I helped lift the bike over fallen trees for two days, bartering fruit from villagers along the way since I had almost nothing left to spend. From Bokogombolo, canoes and a lucky lift with a fisherman — who gave me a 1925 Belgian colonial coin he'd dug up in his garden — got me back to Boleko, and eventually to Wafanya, where I paid off my debts and collapsed, exhausted and sick, having also picked up giardia along the way."
         ],
         "photos": [
-          { "src": "images/congo-leopard-skin.jpeg", "caption": "A leopard skin gifted by a local chief" }
+          { "src": "images/congo-leopard-skin.jpeg", "caption": "A leopard skin gifted by a local chief" },
+          { "src": "images/congo-new-06.jpg", "caption": "DRC, August–November 2022" }
         ]
       },
       {
         "heading": "From Wafanya to Boende",
         "paragraphs": [
           "Doctor Taylor in Wafanya treated my infected blisters, cutting one open to drain it so I could walk again, and loaded me with antibiotics. Once recovered enough, I rented a bike and driver for the 216 km to Boende — which broke down after 76 km. Two overloaded strangers on another bike agreed to squeeze me in anyway for a fraction of the price I'd already paid the first guy. We fell off a few times in the mud but no one was hurt. Boende, the provincial capital, had barely any phone signal, but at least more food options after weeks in the bush."
+        ],
+        "photos": [
+          { "src": "images/congo-new-07.jpg", "caption": "DRC, August–November 2022" }
         ]
       },
       {
@@ -244,6 +273,10 @@
         "paragraphs": [
           "I hailed motorbikes directly on the roadside rather than renting one, cheaper that way, and eventually rode 326 km to Ikela over three nights and four days with two high-ranking Tshuapa civil servants, sleeping at villagers' homes along the way per local custom. We hit several illegal wooden roadblocks where locals demanded payment for “road work” no one could point to; one standoff with fifty aggressive villagers lasted thirty tense minutes before my companions' government IDs got us through without paying.",
           "Arriving in Ikela sick with a 40-degree fever, I was held for 45 minutes by DGM and army officials just looking at my passport. When they wouldn't give it back, I snapped it out of the officer's hands and told him I was done playing games and needed a hospital. He was furious; I opened my arms and told him the worst he could do was shoot me and dump my body in the river, and that everyone present, including my two friends, was a witness. I photographed his ID, told him my “powerful friends in Kinshasa” would hear about this, and walked away. They didn't follow. I got treated at the hospital and rested at a friend's home for a few days."
+        ],
+        "photos": [
+          { "src": "images/congo-new-08.jpg", "caption": "DRC, August–November 2022" },
+          { "src": "images/congo-new-09.jpg", "caption": "DRC, August–November 2022" }
         ]
       },
       {
@@ -251,6 +284,10 @@
         "paragraphs": [
           "Hitchhiking onward toward Opala, I passed armed FARDC soldiers who let me go after I told them I had nothing for them, and a drunk checkpoint commander who backed off once I played a recorded vouching message in Lingala. My driver that stretch casually told me he'd once raped a woman, and that it was common — a grim window into the realities some people live with there.",
           "From near Opala, a young man transporting a goat to sell in Kisangani took me the rest of the way for a fee, goat included, biting at my hand from its perch on the bike. Checkpoints got worse as we went: a legitimate DGM post, then working villagers I happily tipped for actually repairing the road, then a nasty army-and-agency checkpoint that harassed my driver for hours over an expired license until he handed over his motorbike torchlight as a bribe. Twenty kilometers from Kisangani, tax officials demanded a “foreigner's tax” I refused to pay; we were eventually let through, but by then it was pitch dark and we'd lost our only light, so I rode the last stretch by phone-flashlight at a crawl."
+        ],
+        "photos": [
+          { "src": "images/congo-new-10.jpg", "caption": "DRC, August–November 2022" },
+          { "src": "images/congo-new-11.jpg", "caption": "DRC, August–November 2022" }
         ]
       },
       {
@@ -269,6 +306,10 @@
         "paragraphs": [
           "East of Kisangani, trucks finally appear, hauling oil in from Kenya, meaning an actual break from motorbikes. But first, a checkpoint 28 km out turned me back to Kisangani's DGM office, where I was told the road east was too dangerous due to rebel activity and I should fly instead. I heard the warning and went anyway on foot and by bike, sneaking past checkpoints in a hoodie, riding through a stretch known for “coupeurs de route” bandits at night without incident, and eventually linking up with a convoy of Somali truckers headed for Uganda.",
           "The truckers explained the real danger: the ADF, an ISIS-affiliated rebel group active on the road between Mambasa and Komanda, known for burning vehicles and kidnapping drivers for ransom. Some trucking companies still risked the shorter Mambasa route with a paid army escort; others rerouted north through Isiro and Aru. I split off with the group heading toward Epulu, which sat just inside the safer margin."
+        ],
+        "photos": [
+          { "src": "images/congo-new-12.jpg", "caption": "DRC, August–November 2022" },
+          { "src": "images/congo-new-13.jpg", "caption": "DRC, August–November 2022" }
         ]
       },
       {
@@ -280,7 +321,8 @@
           "It worked. The administrator backed off the next day, and the police released me with written confirmation of my innocence. But the Okapi Reserve staff never let me rejoin the pygmy trip, Maxime refused to meet me again, and the community's chief, who badly needed the money, was told he'd be arrested if he took me into the forest anyway."
         ],
         "photos": [
-          { "src": "images/congo-epulu-police.jpeg", "caption": "At the police post in Epulu, during the detention" }
+          { "src": "images/congo-epulu-police.jpeg", "caption": "At the police post in Epulu, during the detention" },
+          { "src": "images/congo-new-14.jpg", "caption": "Epulu, Okapi Reserve, DRC" }
         ]
       },
       {
@@ -299,6 +341,9 @@
         "heading": "Conclusion",
         "paragraphs": [
           "If you read this whole thing, you now have a good idea of the challenges that await you if you travel through the DRC overland. It's a beautiful country with amazing nature and wildlife. The local people are, overall, friendly and hospitable. It was a tough journey — logistics, health, fear — but it also showed me the best of people through everyone who helped and hosted me along the way. Don't do this overland alone if you're a pushover. If you're easily intimidated, don't do it. There will be moments you're afraid; don't show it. Stay tough no matter what. You will not be the same after crossing the DRC overland."
+        ],
+        "photos": [
+          { "src": "images/congo-new-15.jpg", "caption": "DRC, August–November 2022" }
         ]
       }
     ],
